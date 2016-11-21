@@ -9,7 +9,7 @@ import json
 from datetime import datetime
 
 
-API_KEY = 'fa5e5e38d6835756ed86522fac48b197'
+API_KEY = ''
 
 def get_weather(city_id):
     URL = 'http://api.openweathermap.org/data/2.5/group'
